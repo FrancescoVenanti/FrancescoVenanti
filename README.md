@@ -1,7 +1,8 @@
 # Welcome to My GitHub Profile!
 
-## About Me
-Hello! I'm Francesco, a Junior Full Stack Developer passionate about building web application.
+## 🚀 About Me
+Hello! I'm Francesco, a driven and detail-oriented Junior Full Stack Developer with a genuine passion for crafting efficient and scalable web solutions.
+I just completed a bootcamp where i learned all the basics to become a full stack developer and i/m currently working on improving and pursuing further knowledge in the front-end side of web developing.
 
 ## 💻 Technologies & Tools
 - Front end

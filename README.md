@@ -1,11 +1,6 @@
 # FRANCESCO VENANTI
-```
-████████████████████████████████████████████████████████████████
-█                                                              █
-█                    SOFTWARE DEVELOPER                        █
-█                                                              █
-████████████████████████████████████████████████████████████████
-```
+
+
 ### CURRENT MISSION
 ```bash
 $ whoami
@@ -54,3 +49,4 @@ C#           ██
 EMAIL    :: francesco.venanti@gmail.com
 LINKEDIN :: linkedin.com/in/francesco-venanti-dev/
 ```
+

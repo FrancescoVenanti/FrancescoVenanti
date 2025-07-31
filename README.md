@@ -26,4 +26,4 @@ I just completed a bootcamp where i learned all the basics to become a full stac
   
 ## 📫 Contact Me
 - Email: francesco.venanti@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francesco-napoli/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francesco-venanti-dev/)

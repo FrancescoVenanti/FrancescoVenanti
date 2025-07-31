@@ -52,5 +52,5 @@ C#           ██
 ### CONTACT
 ```
 EMAIL    :: francesco.venanti@gmail.com
-LINKEDIN :: /in/francesco-venanti-dev/
+LINKEDIN :: linkedin.com/in/francesco-venanti-dev/
 ```
